@@ -13,7 +13,7 @@
 - [Resources](#resources)
 - [Useful Links](#useful-links)
 - [Tools](#tools)
-- [CLI & hosting](#cli-&-hosting)
+- [CLI & hosting](#cli--hosting)
 - [Education](#education)
 
 ## Resources
@@ -44,20 +44,25 @@ Mobile
 
 ## Useful Links
 
+Official projects and resources of MDBootstrap.
+
+ - [Snippets](https://mdbootstrap.com/snippets/) - Best source of Bootstrap code examples & plugins
  - [LAB](https://mdbootstrap.com/docs/standard/lab/) - Inspirational concepts & experiments created by the community of MDB
- - [Visual Studio Code snippets](https://marketplace.visualstudio.com/items?itemName=MDB.mdb-5-standard-snippets) - An extension that allows you to add useful snippets of the most popular MDB 5 components to Visual Studio Code
+ - [Visual Studio Code snippets](https://github.com/mdbootstrap/MDB-VSCode-snippets) - An extension that allows you to add useful snippets of the most popular MDB 5 components to Visual Studio Code
+ - [Webpack starter](https://github.com/mdbootstrap/mdb-webpack-starter)
+ - [Reviews](https://www.g2.com/products/material-design-for-bootstrap/reviews)
 
 ## Articles
 
- - [Technology comparision](https://mdbootstrap.com/docs/technology-comparison/) - What will be the best JavaScript framework in 2021
- - [Articles](https://mdbootstrap.com/articles/) - The best source of tech knowledge
+Contribute to the community and share your technical knowledge - or just read the articles written by others.
+
+ - [Technology comparision](https://mdbootstrap.com/docs/technology-comparison/) - What will be the best JavaScript framework in 2021?
+ - [Articles](https://mdbootstrap.com/articles/) - Contribute to the community and share your technical knowledge - or just read the articles written by others.
 
 
 ## Tools
 
-Tools and utilities to help build apps using MDBootstrap Design.
-
- - [MDBootstrap Snippets](https://mdbootstrap.com/snippets/) - Best source of Bootstrap code examples & plugins
+Tools and utilities to help build apps using MDBootstrap.
 
  - [Logo generator](https://mdbootstrap.com/docs/standard/tools/design/logo-generator/) - Create an elegant and stylish logo in 5 minutes
  - [CSS Masks & Glassmorphism Generator](https://mdbootstrap.com/docs/standard/tools/design/masks/) - Generate the perfect masks for your design
@@ -81,12 +86,16 @@ Tools and utilities to help build apps using MDBootstrap Design.
 
 ## CLI & hosting
 
+Powerful tool which allows you to create different projects. No more difficult configuration and deployment.
+
  - [MDB CLI](https://mdbootstrap.com/docs/standard/cli/) - Create, deploy and host your project with a single command
  - [Quick Start](https://mdbootstrap.com/docs/standard/cli/quick-start/) - Get started with MDB CLI easily and quickly and how to use its full potential
  - [Getting Started](https://mdbootstrap.com/docs/standard/cli/getting-started/) - Step by step on how to create your project and deploy
-
+ - [Overview](https://mdbootstrap.com/docs/standard/cli/overview/) - Guide which will take you on how to perform different actions
 
 ## Education
+
+Well-organized, up-to-date series of tutorials for the latest Bootstrap, Material Design, HTML, CSS, JavaScript.
 
  - [YouTube Channel](https://www.youtube.com/channel/UC5CF7mLQZhvx8O5GODZAhdA)
  - [Tutorials](https://mdbootstrap.com/docs/standard/getting-started/)
