@@ -49,8 +49,9 @@ Official projects and resources of MDBootstrap.
  - [Snippets](https://mdbootstrap.com/snippets/) - Best source of Bootstrap code examples & plugins
  - [LAB](https://mdbootstrap.com/docs/standard/lab/) - Inspirational concepts & experiments created by the community of MDB
  - [Visual Studio Code snippets](https://github.com/mdbootstrap/MDB-VSCode-snippets) - An extension that allows you to add useful snippets of the most popular MDB 5 components to Visual Studio Code
- - [Webpack starter](https://github.com/mdbootstrap/mdb-webpack-starter)
- - [Reviews](https://www.g2.com/products/material-design-for-bootstrap/reviews)
+ - [Angular Visual Studio Code snippets](https://github.com/mdbootstrap/mdb-angular-vscode-snippets) - This extension adds snippets for MDB Angular - Angular Bootstrap UI KIT
+ - [Webpack starter](https://github.com/mdbootstrap/mdb-webpack-starter) - This guide describes in detail the capabilities of Webpack Starter.
+ - [Reviews](https://www.g2.com/products/material-design-for-bootstrap/reviews) - User feedback on mdbootstrap
 
 ## Articles
 
@@ -97,6 +98,6 @@ Powerful tool which allows you to create different projects. No more difficult c
 
 Well-organized, up-to-date series of tutorials for the latest Bootstrap, Material Design, HTML, CSS, JavaScript.
 
- - [YouTube Channel](https://www.youtube.com/channel/UC5CF7mLQZhvx8O5GODZAhdA)
- - [Tutorials](https://mdbootstrap.com/docs/standard/getting-started/)
+ - [Video Tutorials](https://www.youtube.com/channel/UC5CF7mLQZhvx8O5GODZAhdA)
+ - [Written Tutorials](https://mdbootstrap.com/docs/standard/getting-started/)
  
