@@ -13,7 +13,7 @@
 - [Resources](#resources)
 - [Community](#community)
 - [Useful Links](#useful-links)
-- [Generators](#generators)
+- [Tools](#tools)
 - [CLI & hosting](#cli--hosting)
 - [Education](#education)
 
@@ -45,7 +45,6 @@ Mobile
 
 - Projects created with MDBootstrap.
 
-
 ## Useful Links
 
 Official projects and resources of MDBootstrap.
@@ -64,8 +63,7 @@ Contribute to the community and share your technical knowledge - or just read th
 - [Technology comparision](https://mdbootstrap.com/docs/technology-comparison/) - What will be the best JavaScript framework in 2021?
 - [Articles](https://mdbootstrap.com/articles/) - Contribute to the community and share your technical knowledge - or just read the articles written by others.
 
-
-## Generators
+## Tools
 
 Tools and utilities to help build apps using MDBootstrap.
 
