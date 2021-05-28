@@ -1,14 +1,15 @@
-# Awesome MDBootstrap [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://mdbootstrap.com/img/Marketing/general/logo/big/mdb-r.png" width="400" align="right" alt="MDBootstrap">](https://mdbootstrap.com)
+# Awesome MDBootstrap [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [<img src="https://mdbootstrap.com/img/Marketing/general/logo/big/mdb-r.png" width="400" align="right" alt="MDBootstrap">](https://mdbootstrap.com)
 
 > A curated list of the best resources in the MDBootstrap community.
 
-[MDBootstrap](https://mdbootstrap.com) is a set of slick, responsive page templates, layouts, components, and widgets to rapidly build web pages.
+[MDBootstrap](https://github.com/mdbootstrap/mdb-ui-kit) is a set of slick, responsive page templates, layouts, components, and widgets to rapidly build web pages.
 
 ## Contents
 
 - [Resources](#resources)
 - [Community](#community)
 - [Useful Links](#useful-links)
+- [Articles](#articles)
 - [Tools](#tools)
 - [CLI & hosting](#cli--hosting)
 - [Education](#education)
