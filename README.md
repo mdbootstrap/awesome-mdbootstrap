@@ -1,12 +1,8 @@
-[<p align="center"><img src="https://mdbootstrap.com/img/Marketing/general/logo/big/mdb-r.png" height=100></p>](https://mdbootstrap.com/)
+# Awesome MDBootstrap [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://mdbootstrap.com/img/Marketing/general/logo/big/mdb-r.png" width="400" align="right" alt="MDBootstrap">](https://mdbootstrap.com)
 
-<h1 align="center">Awesome MDBootstrap</h1>
+> A curated list of the best resources in the MDBootstrap community.
 
-[<p align="center"><img src="https://awesome.re/badge.svg" height=20></p>](https://github.com/sindresorhus/awesome)
-
-<p align="center">
-  <a href="https://mdbootstrap.com/">MDBootstrap</a>  is a set of slick, responsive page templates, layouts, components, and widgets to rapidly build web pages.
-</p>
+[MDBootstrap](https://mdbootstrap.com) is a set of slick, responsive page templates, layouts, components, and widgets to rapidly build web pages.
 
 ## Contents
 
