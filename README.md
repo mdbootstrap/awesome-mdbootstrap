@@ -21,50 +21,50 @@
 
 Official projects and resources of MDBootstrap.
 
-- [Official website](https://mdbootstrap.com) - Material Design for Bootstrap 5 & 4 - the most popular & free UI KIT
+- [Official website](https://mdbootstrap.com) - Material Design for Bootstrap 5 & 4 - the most popular & free UI KIT.
 
 Free
 
-- [MDB Standard Free](https://mdbootstrap.com/docs/standard/) - Free to download, open-source Bootstrap 5 UI Kit
-- [MDB Angular Free](https://mdbootstrap.com/docs/b5/angular/) - Bootstrap 5 & Angular 11 Free UI KIT with Material Design
-- [MDB React Free](https://mdbootstrap.com/docs/b5/react/) - Bootstrap 5 & React 17 Free UI KIT with Material Design
-- [MDB Vue Free](https://mdbootstrap.com/docs/b5/vue/) - Bootstrap 5 & Vue 3 Free UI KIT with Material Design
+- [MDB Standard Free](https://mdbootstrap.com/docs/standard/) - Free to download, open-source Bootstrap 5 UI Kit.
+- [MDB Angular Free](https://mdbootstrap.com/docs/b5/angular/) - Bootstrap 5 & Angular 11 Free UI KIT with Material Design.
+- [MDB React Free](https://mdbootstrap.com/docs/b5/react/) - Bootstrap 5 & React 17 Free UI KIT with Material Design.
+- [MDB Vue Free](https://mdbootstrap.com/docs/b5/vue/) - Bootstrap 5 & Vue 3 Free UI KIT with Material Design.
 
 Pro
 
-- [MDB Standard Pro](https://mdbootstrap.com/docs/standard/pro/) - Premium UI Kit for the latest Bootstrap 5. Lifetime usage of 5000+ premium components, thousands of templates, plugins, design blocks
-- [MDB Angular Pro](https://mdbootstrap.com/docs/b5/angular/pro/) - Material Design for Bootstrap 5 with Angular 
-- [MDB React Pro](https://mdbootstrap.com/docs/b5/react/pro/) - Material Design for Bootstrap 5 with React
-- [MDB Vue Pro](https://mdbootstrap.com/docs/b5/vue/pro/) - Material Design for Bootstrap 5 with Vue
+- [MDB Standard Pro](https://mdbootstrap.com/docs/standard/pro/) - Premium UI Kit for the latest Bootstrap 5. Lifetime usage of 5000+ premium components, thousands of templates, plugins, design blocks.
+- [MDB Angular Pro](https://mdbootstrap.com/docs/b5/angular/pro/) - Material Design for Bootstrap 5 with Angular.
+- [MDB React Pro](https://mdbootstrap.com/docs/b5/react/pro/) - Material Design for Bootstrap 5 with React.
+- [MDB Vue Pro](https://mdbootstrap.com/docs/b5/vue/pro/) - Material Design for Bootstrap 5 with Vue.
 
 Mobile
 
-- [MDB Angular Mobile](https://mdbootstrap.com/docs/angular/mobile/) - Based on the latest NativeScript-Angular version
-- [MDB React Mobile](https://mdbootstrap.com/docs/react/mobile/) - Based on the latest React Native 0.61 version
-- [MDB Vue Mobile](https://mdbootstrap.com/docs/vue/mobile/) -  Based on the latest NativeScript-Vue 2.4.0 version
+- [MDB Angular Mobile](https://mdbootstrap.com/docs/angular/mobile/) - Based on the latest NativeScript-Angular version.
+- [MDB React Mobile](https://mdbootstrap.com/docs/react/mobile/) - Based on the latest React Native 0.61 version.
+- [MDB Vue Mobile](https://mdbootstrap.com/docs/vue/mobile/) -  Based on the latest NativeScript-Vue 2.4.0 version.
 
 ## Community
 
- - Projects created with MDBootstrap
+ - Projects created with MDBootstrap.
 
 
 ## Useful Links
 
 Official projects and resources of MDBootstrap.
 
-- [Snippets](https://mdbootstrap.com/snippets/) - Best source of Bootstrap code examples & plugins
-- [LAB](https://mdbootstrap.com/docs/standard/lab/) - Inspirational concepts & experiments created by the community of MDB
-- [Visual Studio Code snippets](https://github.com/mdbootstrap/MDB-VSCode-snippets) - An extension that allows you to add useful snippets of the most popular MDB 5 components to Visual Studio Code
-- [Angular Visual Studio Code snippets](https://github.com/mdbootstrap/mdb-angular-vscode-snippets) - This extension adds snippets for MDB Angular - Angular Bootstrap UI KIT
+- [Snippets](https://mdbootstrap.com/snippets/) - Best source of Bootstrap code examples & plugins.
+- [LAB](https://mdbootstrap.com/docs/standard/lab/) - Inspirational concepts & experiments created by the community of MDB.
+- [Visual Studio Code snippets](https://github.com/mdbootstrap/MDB-VSCode-snippets) - An extension that allows you to add useful snippets of the most popular MDB 5 components to Visual Studio Code.
+- [Angular Visual Studio Code snippets](https://github.com/mdbootstrap/mdb-angular-vscode-snippets) - This extension adds snippets for MDB Angular - Angular Bootstrap UI KIT.
 - [Webpack starter](https://github.com/mdbootstrap/mdb-webpack-starter) - This guide describes in detail the capabilities of Webpack Starter.
-- [Reviews](https://www.g2.com/products/material-design-for-bootstrap/reviews) - User feedback on mdbootstrap
+- [Reviews](https://www.g2.com/products/material-design-for-bootstrap/reviews) - User feedback on mdbootstrap.
 
 ## Articles
 
 Contribute to the community and share your technical knowledge - or just read the articles written by others.
 
- - [Technology comparision](https://mdbootstrap.com/docs/technology-comparison/) - What will be the best JavaScript framework in 2021?
- - [Articles](https://mdbootstrap.com/articles/) - Contribute to the community and share your technical knowledge - or just read the articles written by others.
+- [Technology comparision](https://mdbootstrap.com/docs/technology-comparison/) - What will be the best JavaScript framework in 2021?
+- [Articles](https://mdbootstrap.com/articles/) - Contribute to the community and share your technical knowledge - or just read the articles written by others.
 
 
 ## Tools
