@@ -21,8 +21,6 @@
 
 Official projects and resources of MDBootstrap.
 
-- [Official website](https://mdbootstrap.com) - Material Design for Bootstrap 5 & 4 - the most popular & free UI KIT.
-
 Free
 
 - [MDB Standard Free](https://mdbootstrap.com/docs/standard/) - Free to download, open-source Bootstrap 5 UI Kit.
@@ -45,7 +43,7 @@ Mobile
 
 ## Community
 
- - Projects created with MDBootstrap.
+- Projects created with MDBootstrap.
 
 
 ## Useful Links
