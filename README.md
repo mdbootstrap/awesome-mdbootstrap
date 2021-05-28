@@ -13,7 +13,7 @@
 - [Resources](#resources)
 - [Community](#community)
 - [Useful Links](#useful-links)
-- [Tools](#tools)
+- [Generators](#generators)
 - [CLI & hosting](#cli--hosting)
 - [Education](#education)
 
@@ -65,7 +65,7 @@ Contribute to the community and share your technical knowledge - or just read th
 - [Articles](https://mdbootstrap.com/articles/) - Contribute to the community and share your technical knowledge - or just read the articles written by others.
 
 
-## Tools
+## Generators
 
 Tools and utilities to help build apps using MDBootstrap.
 
