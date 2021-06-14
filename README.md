@@ -1,4 +1,4 @@
-# Awesome MDBootstrap [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [<img src="https://mdbootstrap.com/img/Marketing/general/logo/big/mdb.png" width="380" align="right" alt="MDBootstrap">](https://mdbootstrap.com)
+# Awesome MDBootstrap [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [<img src="https://mdbootstrap.com/img/Marketing/general/logo/huge/mdb.png" width="380" align="right" alt="MDBootstrap">](https://mdbootstrap.com)
 
 > A curated list of the best resources in the MDBootstrap community.
 
