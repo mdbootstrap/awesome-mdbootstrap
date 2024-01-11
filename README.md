@@ -102,9 +102,9 @@ Powerful tool which allows you to create different projects. No more difficult c
 
 An open-source collection of components, templates and plugins for Tailwind CSS. Easily customizable & optimized for performance.
 
-- [UI Kit]([https://tw-elements.com/) - Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities
+- [UI Kit](https://tw-elements.com/) - Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities
 
-TW Elements integrations with popular technologies.
+[TW Elements integrations](https://tw-elements.com/docs/standard/integrations/) with popular technologies.
 
 - [Django Integration](https://tw-elements.com/docs/standard/integrations/django-integration/)
 - [Angular Integration](https://tw-elements.com/docs/standard/integrations/angular-integration/)
