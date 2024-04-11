@@ -11,6 +11,7 @@
 - [Useful Links](#useful-links)
 - [Articles](#articles)
 - [Tools](#tools)
+- [Data Grid](#data-grid)
 - [CLI & hosting](#cli--hosting)
 - [Education](#education)
 
